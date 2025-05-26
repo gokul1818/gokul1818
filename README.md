@@ -1,5 +1,13 @@
-# 💫 About Me:
-### 👋 Hi there, I'm gokulakrishnan<br><br>🚀 Welcome to my GitHub profile! Here's a little about me:<br><br>- 🔭 I’m currently working on: doodleblue innovation  as a react js and reactnative developer<br>- 👯 I’m looking to collaborate on: **Open-source projects, web development, or anything JavaScript-related**<br>- 🤝 I’m looking for help with: **Improving my backend skills (Node.js, databases, API design)**<br>- 🌱 I’m currently learning: **TypeScript, Docker, and Next.js**<br>- 💬 Ask me about: **Frontend development, Git/GitHub basics, or creating responsive UIs**<br>- ⚡ Fun fact: **I love solving coding challenges and I can write code faster with lo-fi beats playing in the background 🎧**<br><br>
+### 👋 Hi there, I'm Gokulakrishnan
+
+🚀 Welcome to my GitHub profile! Here's a little about me:
+
+- 🔭 I’m currently working at **Doodleblue Innovations** as a **React.js and React Native Developer**
+- 👯 I’m looking to collaborate on **open-source projects, web development, or anything JavaScript-related**
+- 🤝 I’m looking for help with **improving my backend skills in Node.js, databases, and API design**
+- 🌱 I’m currently learning **TypeScript, Docker, and Next.js**
+- 💬 Ask me about **frontend development, Git/GitHub basics, or creating responsive UIs**
+- ⚡ Fun fact: **I enjoy solving coding challenges and can code faster with lo-fi beats playing in the background 🎧**
 
 
 ## 🌐 Socials:
